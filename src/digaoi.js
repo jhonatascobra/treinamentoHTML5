@@ -1,0 +1,3 @@
+function digaoi() {
+    alert('Oii :)');
+}
